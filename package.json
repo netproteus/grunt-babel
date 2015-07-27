@@ -37,7 +37,9 @@
     "babel"
   ],
   "dependencies": {
-    "babel-core": "^5.0.0"
+    "babel-core": "^5.0.0",
+    "es6-promise": "^2.3.0",
+    "mkpath": "^0.1.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
